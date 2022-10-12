@@ -11,9 +11,9 @@ title                    : "Jiemin Lin"
 title_separator          : "-"
 name                     : &name "Jiemin Lin"
 description              : &description "Interested in network optimization."
-url                      : https://teadross.github.io # the base hostname & protocol for your site e.g. "https://mistakes.github.io"
+url                      : https://teadross.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "teadross/teadross.github.io"
+repository               : "https://github.com/teadross/teadross.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
