@@ -16,15 +16,14 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020.08 - 2021.09: Huawei Project 01
+  * Won the Huawei Outstanding Project Award (Ranked 1st during all candidates)
+  * Published 3 papers during this work
+  * Teammates: Zhenwei Zhai and Shifeng Ding
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021.09 - 2022.11: Huawei Project 02
+  * Published 2 papers during this work
+  * Teammates: Zhenwei Zhai and Kexing Yang
   
 Skills
 ======
@@ -53,8 +52,3 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
