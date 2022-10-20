@@ -12,9 +12,11 @@ Hello, I am Jamin Lin, a master student at Soochow University. My research backg
 
 Research Interests
 ======  
+My research interests mainly include two parts. One is the optimization problems in mobile or multi-access edge computing and all-optical data centers. Another is the blocking theory, including the set theory for non-blocking networks and the queueing theory for blocking networks.
+
 Mobile or Multi-access Edge Computing
 ------ 
-In terms of Mobile/Multi-access Edge Computing (MEC), I focus on the network survivability problems. Specifically, I proposed an Integer Linear Programming models for service protection in MEC, and designed a heuristic algorithm for AP and link protection in MEC.
+In terms of Mobile or Multi-access Edge Computing (MEC), I focus on the network survivability problems. Specifically, I proposed an Integer Linear Programming models for service protection in MEC, and designed a heuristic algorithm for AP and link protection in MEC.
 
 Data Center Networks
 ------ 
@@ -24,14 +26,16 @@ Optical Switching
 ------
 In optical switching, I am interested in two different toptics, including the blocking performance of optical switching architectures and the design of next generation Reconfigurable Optical Add.Drop Multiplexer (ROADM) architectures. I have derived the strictly non-blocking conditions for several different optical switching architectures and designed some novel ROADM architectures. These are my most rewarding researches.
 
-My background
-======
-Most Important Thing
+My background Informance
+======  
+Some background information including my faith and some tiny awards I won.
+
+My Faith
 ------ 
-I am Jia-Xin-Tang
-My GOD is JIARAN.
+My GOD is JIARAN.  
+I am Jia-Xin-Tang.
 
 Some Tiny Awards
 ------
-I won the National Scholarship in 2022
-I won the Pacemaker to Merit Student in 2019
+I won the National Scholarship in 2022.  
+I won the Pacemaker to Merit Student in 2019.  
