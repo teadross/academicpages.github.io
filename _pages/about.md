@@ -32,7 +32,7 @@ Some background information including my faith and some tiny awards I won.
 
 My Faith
 ------ 
-My GOD is JIARAN.  
+My GOD is [DIANA (JIARAN WANG)](https://space.bilibili.com/672328094/).  
 I am Jia-Xin-Tang.
 
 Some Tiny Awards
