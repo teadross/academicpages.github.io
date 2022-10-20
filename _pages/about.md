@@ -12,7 +12,7 @@ Hello, I am Jamin Lin, a master student at Soochow University. My research backg
 
 Research Interests
 ====== 
-Mobile/Multi-access Edge Computing
+Mobile or Multi-access Edge Computing
 ------ 
 In terms of Mobile/Multi-access Edge Computing (MEC), I focus on the network survivability problems. Specifically, I proposed an Integer Linear Programming models for service protection in MEC, and designed a heuristic algorithm for AP and link protection in MEC.
 
