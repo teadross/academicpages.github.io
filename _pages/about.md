@@ -26,7 +26,12 @@ In optical switching, I am interested in two different toptics, including the bl
 
 My background
 ======
-* I am Jia-Xin-Tang
-* My GOD is JIARAN.
-* I won the National Scholarship in 2022
-* I won the Pacemaker to Merit Student in 2019
+Most Important Thing
+------ 
+I am Jia-Xin-Tang
+My GOD is JIARAN.
+
+Some Tiny Awards
+------
+I won the National Scholarship in 2022
+I won the Pacemaker to Merit Student in 2019
