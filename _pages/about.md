@@ -11,7 +11,7 @@ redirect_from:
 Hello, I am Jamin Lin, a master student at Soochow University. My research background is in electrical engineering and network communication, and I focus on optimizing network performence (mainly optical networks). I had a cheerful disposition. If you are interested in me personally, or if you have any questions about my research, please contact me via email. Normally, I will reply to you within a day.
 
 Research Interests
-====== 
+======  
 Mobile or Multi-access Edge Computing
 ------ 
 In terms of Mobile/Multi-access Edge Computing (MEC), I focus on the network survivability problems. Specifically, I proposed an Integer Linear Programming models for service protection in MEC, and designed a heuristic algorithm for AP and link protection in MEC.
