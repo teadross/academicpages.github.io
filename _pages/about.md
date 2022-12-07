@@ -38,4 +38,5 @@ I am Jia-Xin-Tang.
 Some Tiny Awards
 ------
 I won the National Scholarship in 2022.  
+I won the HUAWEI Outstanding Cooperation Projects Award in 2022.
 I won the Pacemaker to Merit Student in 2019.  
