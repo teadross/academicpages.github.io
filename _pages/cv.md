@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * 2020.08 - 2021.09: Huawei Project 01
-  * Won the Huawei Outstanding Project Award (Ranked 1st during all candidates)
+  * Won the HUAWEI Outstanding Cooperation Projects Award (Ranked 1st during all candidates)
   * Published 3 papers during this work
   * Teammates: Zhenwei Zhai and Shifeng Ding
 
