@@ -24,7 +24,7 @@ For data center networks, I focused on the toptics of all-optical data centers. 
 
 Optical Switching
 ------
-In optical switching, I am interested in two different toptics, including the blocking performance of optical switching architectures and the design of next generation Reconfigurable Optical Add.Drop Multiplexer (ROADM) architectures. I have derived the strictly non-blocking conditions for several different optical switching architectures and designed some novel ROADM architectures. These are my most rewarding researches.
+In optical switching, I am interested in two different topics, including the blocking performance of optical switching architectures and the design of next generation Reconfigurable Optical Add.Drop Multiplexer (ROADM) architectures. I have derived the strictly non-blocking conditions for several different optical switching architectures and designed some novel ROADM architectures. These are my most rewarding researches.
 
 My background Informance
 ======  
