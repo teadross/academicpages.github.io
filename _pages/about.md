@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Jamin Lin, a master's student at Soochow University. My research background is in electrical engineering and network communication, and I focus on optimizing network performance (mainly optical networks). I had a cheerful disposition. If you are interested in me personally, or if you have any questions about my research, please contact me via email. Normally, I will reply to you within a day.
+Hello, I am Jiemin Lin, a master's student at Soochow University. My research background is in electrical engineering and network communication, and I focus on optimizing network performance (mainly optical networks). I had a cheerful disposition. If you are interested in me personally, or if you have any questions about my research, please contact me via email. Normally, I will reply to you within a day.
 
 Research Interests
 ======  
