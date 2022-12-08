@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Jamin Lin, a master student at Soochow University. My research background is in electrical engineering and network communication, and I focus on optimizing network performence (mainly optical networks). I had a cheerful disposition. If you are interested in me personally, or if you have any questions about my research, please contact me via email. Normally, I will reply to you within a day.
+Hello, I am Jamin Lin, a master's student at Soochow University. My research background is in electrical engineering and network communication, and I focus on optimizing network performance (mainly optical networks). I had a cheerful disposition. If you are interested in me personally, or if you have any questions about my research, please contact me via email. Normally, I will reply to you within a day.
 
 Research Interests
 ======  
@@ -16,15 +16,15 @@ My research interests mainly include two parts. One is the optimization problems
 
 Mobile or Multi-access Edge Computing
 ------ 
-In terms of Mobile or Multi-access Edge Computing (MEC), I focus on the network survivability problems. Specifically, I proposed an Integer Linear Programming models for service protection in MEC, and designed a heuristic algorithm for AP and link protection in MEC.
+In terms of Mobile or Multi-access Edge Computing (MEC), I focus on network survivability problems. Specifically, I proposed Integer Linear Programming models for service protection in MEC, and designed heuristic algorithms for AP and link protection in MEC.
 
 Data Center Networks
 ------ 
-For data center networks, I focused on the toptics of all-optical data centers. I focus on two kinds of services in data center networks, namely unicast service and co-flow service. I designed some all-optical network architectures for each of these two services for efficiently service deployment.
+For data center networks, I focused on the topics of all-optical data centers. I focus on two kinds of services in data center networks, namely unicast service and co-flow service. I designed some all-optical network architectures for each of these two services for efficient service deployment.
 
 Optical Switching
 ------
-In optical switching, I am interested in two different topics, including the blocking performance of optical switching architectures and the design of next generation Reconfigurable Optical Add.Drop Multiplexer (ROADM) architectures. I have derived the strictly non-blocking conditions for several different optical switching architectures and designed some novel ROADM architectures. These are my most rewarding researches.
+In optical switching, I am interested in two different topics, including the blocking performance of optical switching architectures and the design of next-generation Reconfigurable Optical Add/Drop Multiplexer (ROADM) architectures. I have derived the strictly non-blocking conditions for several different optical switching architectures and designed some novel ROADM architectures. These are my most rewarding research.
 
 My background Informance
 ======  
