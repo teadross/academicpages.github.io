@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Jiemin Lin, a master's student at Soochow University. My research background is in electrical engineering and network communication, and I focus on optimizing network performance (mainly optical networks). I had a cheerful disposition. If you are interested in me personally, or if you have any questions about my research, please contact me via email. Normally, I will reply to you within a day.
+Hello, I am Jiemin Lin, a master's student at Soochow University. My research background is in electrical engineering and network communication, and I focus on optimizing network performance (mainly optical networks). I have a cheerful disposition. If you are interested in me personally, or if you have any questions about my research, please contact me via email. Normally, I will reply to you within a day.
 
 Research Interests
 ======  
@@ -32,8 +32,7 @@ Some background information including my faith and some tiny awards I won.
 
 My Faith
 ------ 
-My GOD is [DIANA (JIARAN WANG)](https://space.bilibili.com/672328094/).  
-I am Jia-Xin-Tang.
+You have to know the best idol in the world. Do not hesitate and [JUST CLICK HERE](https://space.bilibili.com/672328094/).  
 
 Some Tiny Awards
 ------
