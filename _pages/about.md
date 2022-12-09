@@ -26,7 +26,7 @@ Optical Switching
 ------
 In optical switching, I am interested in two different topics, including the blocking performance of optical switching architectures and the design of next-generation Reconfigurable Optical Add/Drop Multiplexer (ROADM) architectures. I have derived the strictly non-blocking conditions for several different optical switching architectures and designed some novel ROADM architectures. These are my most rewarding research.
 
-My background Informance
+My background Information
 ======  
 Some background information including my faith and some tiny awards I won.
 
