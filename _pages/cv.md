@@ -36,7 +36,7 @@ Skills
   * Queueing Theory
   * Integer Linear Programming
   * Set Theory
-* Computer Science
+* Computer Science:
   * Computer Networking
   * Data Structure 
 
