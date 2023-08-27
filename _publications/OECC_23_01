@@ -1,0 +1,16 @@
+---
+title: "Clos-based All-optical Switching Architecture Supporting Mixed Unicast & Multicast Datacenter Services"
+collection: publications
+permalink: /publication/ACP_23_01
+excerpt: 'This paper is about all optical DCN design with Mixed Unicast & Multicast(MUM) services.'
+date: 2022-07-02
+venue: 'Opto-Electronics and Communications Conference 2023'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10209823'
+citation: 'J. Lin, Y. Li and G. Shen, "Clos-based All-optical Switching Architecture Supporting Mixed Unicast & Multicast Datacenter Services," 2023 Opto-Electronics and Communications Conference (OECC), Shanghai, China, 2023, pp. 1-3.'
+---
+
+Authors: **J. Lin**, Y. Li, G. Shen
+
+Abstract: We design a new multicast-enabled Clos optical switching (MCOS) architecture for datacenter networks. Simulation results show that the proposed architecture can significantly reduce the blocking probabilities of both unicast and multicast services compared with the conventional WSS-based Clos network. It is also found that when the ratio of splitters in the MCOS network is set to be the same as the proportion of multicast services, the proposed architecture can achieve an optimal blocking performance. 
+
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/10209823)
