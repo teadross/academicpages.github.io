@@ -1,0 +1,16 @@
+---
+title: "Service Provisioning in WSS-based Wavelength-Convertible All-Optical Spine-Leaf Data Center Networks"
+collection: publications
+permalink: /publication/ACP_23_01
+excerpt: 'This paper is about all optical DCN design with wavelength converters and unicast services.'
+date: 2022-07-02
+venue: 'Opto-Electronics and Communications Conference 2023'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10209695'
+citation: 'K. Yang, J. Lin, Z. Chang, T. Chang, Y. Li and G. Shen, "Service Provisioning in WSS-based Wavelength-Convertible All-Optical Spine-Leaf Data Center Networks," 2023 Opto-Electronics and Communications Conference (OECC), 2023, pp. 1-4.'
+---
+
+Authors: K. Yang, **J. Lin**, Z. Chang, T. Chang, Y. Li, G. Shen
+
+Abstract: We consider deploying tunable wavelength converters (TWCs) in the wavelength selective switch (WSS) based all-optical data center network with spine-leaf topology. We investigate its routing, wavelength, and time slot allocation (RWTA) optimization problem and propose two different lightpath provisioning strategies, which are WSS reconfiguration first-based (WRF) and wavelength conversion first-based (WCF) strategies. We evaluate the performance of these two strategies through simulations and find that the proposed WCF strategy can significantly reduce the overall task completion time (TCT) and the number of WSS reconfigurations. 
+
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/10209695)
