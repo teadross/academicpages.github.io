@@ -1,0 +1,16 @@
+---
+title: "From Small to Large: Clos Network for Scaling All-Optical Switching"
+collection: publications
+permalink: /publication/MCOM_23_01
+excerpt: 'This paper proposed the next generation reconfigurable optical add/drop multiplexers (ROADMs).'
+date: 2023-08-07 
+venue: 'IEEE Communications Magazine'
+paperurl: 'https://ieeexplore.ieee.org/document/10210476'
+citation: 'J. Lin, Z. Chang, L. Zong, S. K. Bose, T. Chang and G. Shen, "From Small to Large: Clos Network for Scaling All- Optical Switching," IEEE Communications Magazine, 2023.'
+---
+
+Authors: **J. Lin**, Z. Chang, L. Zong, S. K. Bose, T. Chang, G. Shen
+
+Abstract: To cater to the demands of rapidly growing Internet traffic, backbone networks need high-degree reconfigurable optical add/drop multiplexers (ROADMs) to simultaneously support multiple pairs of bi-directional fibers on each link. However, the traditional ROADM architecture based on the Spanke network is too complex to be directly scaled up to construct high-degree ROADMs. Because of this, Clos networks are considered as promising alternatives for constructing largescale ROADMs. In this article, we look at a next-generation Closbased ROADM architecture and show that it indeed provides better blocking performance with lower element and fiber complexities compared with a traditional Spanke-based (i.e., fully connected in the backplane) ROADM architecture. We also compare insertion loss, power consumption, and system cost of these architectures, which further illustrates the potential of the Clos-based ROADMs. 
+
+[Download paper here](https://ieeexplore.ieee.org/document/10210476)
