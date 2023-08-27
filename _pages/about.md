@@ -20,11 +20,11 @@ In terms of Mobile or Multi-access Edge Computing (MEC), I focus on network surv
 
 Data Center Networks
 ------ 
-For data center networks, I focused on the topics of all-optical data centers. I focus on two kinds of services in data center networks, namely unicast service and co-flow service. I designed some all-optical network architectures for each of these two services for efficient service deployment.
+For data center networks, I focused on the topics of all-optical data centers. I focus on different services in data center networks, including unicast, multicast and co-flow services. I designed some all-optical network architectures for each of these services for efficient service deployment.
 
 Optical Switching
 ------
-In optical switching, I am interested in two different topics, including the blocking performance of optical switching architectures and the design of next-generation Reconfigurable Optical Add/Drop Multiplexer (ROADM) architectures. I have derived the strictly non-blocking conditions for several different optical switching architectures and designed some novel ROADM architectures. These are my most rewarding research.
+In optical switching, I am interested in two different topics, including the blocking theory of optical switching architectures and the design of next-generation Reconfigurable Optical Add/Drop Multiplexer (ROADM) architectures. On the one hand, I have derived the strictly non-blocking conditions and the blocking probability analytical models for several different optical switching architectures. On the other hand, I have designed some novel ROADM architectures. These are my most rewarding research.
 
 My background Information
 ======  
@@ -36,6 +36,7 @@ You have to know the best idol in the world. Do not hesitate and [JUST CLICK HER
 
 Some Tiny Awards
 ------
+I am an outstanding graduate of Soochow University.
 I won the National Scholarship in 2022.  
 I won the HUAWEI Outstanding Cooperation Projects Award in 2022.  
 I won the Pacemaker to Merit Student in 2019.  
