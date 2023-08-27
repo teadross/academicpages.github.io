@@ -16,6 +16,11 @@ Education
 
 Work experience
 ======
+* 2023.07 - now: CTCloud
+  * As a Back-End enginner
+
+Research projects
+======
 * 2020.08 - 2021.09: Huawei Project 01
   * Won the HUAWEI Outstanding Cooperation Projects Award (Ranked 1st during all candidates)
   * Published 3 papers during this work
@@ -28,6 +33,7 @@ Work experience
 Skills
 ======
 * Coding:
+  * Python
   * Java
   * Matlab
   * AMPL
