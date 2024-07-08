@@ -36,8 +36,8 @@ You have to know the best idol in the world. Do not hesitate and [JUST CLICK HER
 
 Some Tiny Awards
 ------
-I won the Distinguished Master's Thesis Award of The Chinese Institute of Electronics in 2023.
+I won the Distinguished Master's Thesis Award of The Chinese Institute of Electronics in 2023.  
 I am an outstanding graduate of Soochow University.  
 I won the National Scholarship in 2022.  
 I won the HUAWEI Outstanding Cooperation Projects Award in 2022.  
-I won the Pacemaker to Merit Student in 2019.  
+I won the Pacemaker to Merit Student of Soochow University in 2019.  
